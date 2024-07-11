@@ -1,0 +1,15 @@
+target/
+*.log
+*.class
+*.jar
+*.war
+*.iml
+*.ipr
+*.iws
+/.idea/
+/.vscode/
+/*.log
+*.swp
+*.tmp
+/.mvn
+/out/
